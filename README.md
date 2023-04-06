@@ -1,4 +1,4 @@
-# Crash course statistics: model output and testing 
+# Crash course statistics: model output and testing
 
 You had a stats introduction before (maybe some time ago) and know how to run a linear model in R, e.g. “lm(y~a+b)”. But you got a little bit rusty on interpreting the model output? 
 
